@@ -1,5 +1,6 @@
-# SZYKeychain_Demo
 利用Keychain保存敏感信息
+
+[思路](http://www.jianshu.com/p/c11d76bec9fe)
 
 如何使用？
 
